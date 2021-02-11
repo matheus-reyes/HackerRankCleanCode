@@ -1,4 +1,4 @@
-package HackerRank.AngryProfessor;
+package Algorithms.AngryProfessor;
 import java.util.Scanner;
 
 public class Main {

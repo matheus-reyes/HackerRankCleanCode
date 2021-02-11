@@ -1,4 +1,4 @@
-package HackerRank.CoutingValleys;
+package Algorithms.CoutingValleys;
 import java.util.Scanner;
 
 public class Main {

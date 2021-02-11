@@ -1,4 +1,4 @@
-package HackerRank.JumpingOnTheClouds;
+package Algorithms.JumpingOnTheClouds;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package HackerRank.ArraysLeftRotation;
+package Algorithms.ArraysLeftRotation;
 import java.util.Scanner;
 
 public class Main {

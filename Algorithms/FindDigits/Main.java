@@ -1,4 +1,4 @@
-package HackerRank.FindDigits;
+package Algorithms.FindDigits;
 import java.util.Scanner;
 
 public class Main {

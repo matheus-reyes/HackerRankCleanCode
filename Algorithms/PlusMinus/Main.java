@@ -1,4 +1,4 @@
-package HackerRank.PlusMinus;
+package Algorithms.PlusMinus;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 

@@ -1,4 +1,4 @@
-package HackerRank.MigratoryBirds;
+package Algorithms.MigratoryBirds;
 import java.util.Scanner;
 
 public class Main {

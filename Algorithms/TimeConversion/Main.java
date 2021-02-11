@@ -1,4 +1,4 @@
-package HackerRank.TimeConversion;
+package Algorithms.TimeConversion;
 import java.util.Scanner;
 
 public class Main {

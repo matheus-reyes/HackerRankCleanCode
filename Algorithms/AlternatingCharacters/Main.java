@@ -1,4 +1,4 @@
-package HackerRank.AlternatingCharacters;
+package Algorithms.AlternatingCharacters;
 import java.util.Scanner;
 
 public class Main {

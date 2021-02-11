@@ -1,4 +1,4 @@
-package HackerRank.DivisibleSumPairs;
+package Algorithms.DivisibleSumPairs;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package HackerRank.SubarrayDivision;
+package Algorithms.SubarrayDivision;
 import java.util.Scanner;
 
 public class Main {

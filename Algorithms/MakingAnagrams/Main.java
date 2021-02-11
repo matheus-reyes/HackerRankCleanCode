@@ -1,4 +1,4 @@
-package HackerRank.MakingAnagrams;
+package Algorithms.MakingAnagrams;
 import java.util.Scanner;
 
 public class Main {

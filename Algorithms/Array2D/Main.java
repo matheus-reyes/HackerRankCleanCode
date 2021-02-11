@@ -1,4 +1,4 @@
-package HackerRank.Array2D;
+package Algorithms.Array2D;
 import java.util.Scanner;
 
 public class Main {

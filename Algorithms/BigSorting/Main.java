@@ -1,4 +1,4 @@
-package HackerRank.BigSorting;
+package Algorithms.BigSorting;
 import java.util.Scanner;
 
 public class Main {

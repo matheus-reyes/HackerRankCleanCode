@@ -1,4 +1,4 @@
-package HackerRank.MiniMaxSum;
+package Algorithms.MiniMaxSum;
 import java.util.Scanner;
 
 public class Main {

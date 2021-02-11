@@ -1,4 +1,4 @@
-package HackerRank.SalesbyMatch;
+package Algorithms.SalesbyMatch;
 import java.util.Scanner;
 
 public class Main{

@@ -1,4 +1,4 @@
-package HackerRank.RepeatedString;
+package Algorithms.RepeatedString;
 import java.util.Scanner;
 
 public class Main{

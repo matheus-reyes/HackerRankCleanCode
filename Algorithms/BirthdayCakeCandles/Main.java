@@ -1,4 +1,4 @@
-package HackerRank.BirthdayCakeCandles;
+package Algorithms.BirthdayCakeCandles;
 import java.util.Scanner;
 
 public class Main {

@@ -1,4 +1,4 @@
-package HackerRank.Staircase;
+package Algorithms.Staircase;
 import java.util.Scanner;
 
 public class Main {

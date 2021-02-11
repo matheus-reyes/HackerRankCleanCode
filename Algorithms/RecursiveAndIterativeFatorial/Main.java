@@ -1,4 +1,4 @@
-package HackerRank.RecursiveAndIterativeFatorial;
+package Algorithms.RecursiveAndIterativeFatorial;
 import java.util.Scanner;
 
 public class Main{

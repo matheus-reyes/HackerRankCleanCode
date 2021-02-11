@@ -1,4 +1,4 @@
-package HackerRank.DiagonalDiference;
+package Algorithms.DiagonalDiference;
 import java.util.Scanner;
 
 public class Main {

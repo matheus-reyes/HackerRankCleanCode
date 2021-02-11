@@ -1,4 +1,4 @@
-package HackerRank.GradingStudent;
+package Algorithms.GradingStudent;
 import java.util.Scanner;
 
 public class Main {
